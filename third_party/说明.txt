@@ -1,0 +1,6 @@
+本程序包含 Python 3.12 运行时及标准库、SQLite、OpenSSL 3.x 运行库和 PyInstaller 启动器。
+Python 许可及其列出的组件说明见 Python.txt。
+OpenSSL 使用 Apache License 2.0，见 OpenSSL.txt。项目：https://www.openssl.org/
+SQLite 的可交付代码为公有领域：https://www.sqlite.org/copyright.html
+PyInstaller 对生成程序有专门的许可例外，见 PyInstaller.txt。
+产品名称、图标、界面与新增源码不因此自动获得这些第三方许可证。
