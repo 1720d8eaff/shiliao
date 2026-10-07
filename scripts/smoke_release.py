@@ -21,7 +21,7 @@ def main():
             assert parsed['nativeWidgetsCreated'] and not parsed['httpServiceStarted']
         else:
             assert parsed['nativeUninstallWindow'] and parsed['nothingDeleted']
-        print(executable + ': GUI self-test passed')
+        print(report + ': GUI self-test passed')
 
 
 if __name__ == '__main__':
